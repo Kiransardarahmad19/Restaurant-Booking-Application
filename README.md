@@ -24,3 +24,18 @@ Multi-Activity Navigation: Smooth transitions between multiple activities.
 2. Built-in Database: Stores booking details securely.
 3. User Validation: Strict input controls ensure accurate booking data.
 4. By organizing reservation data efficiently and providing a pleasant user experience, DineIn makes dining reservations straightforward and enjoyable for users.
+
+## Project Screenshots
+
+Here are some screenshots showcasing the Sign Hope application in action:
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="bb1.jpeg" alt="" width="150"/>
+    <img src="bb2.jpeg" alt="" width="150"/>
+    <img src="bb3.jpeg" alt="" width="150"/>
+</div>
+
+<div style="display: flex; justify-content: space-between; margin-top: 10px;">
+    <img src="bb4.jpeg" alt=" " width="150"/>
+    <img src="bb5.jpeg" alt=" " width="150"/>
+</div>
