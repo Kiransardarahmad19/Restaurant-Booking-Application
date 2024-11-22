@@ -27,15 +27,15 @@ Multi-Activity Navigation: Smooth transitions between multiple activities.
 
 ## Project Screenshots
 
-Here are some screenshots showcasing the Sign Hope application in action:
+Here are some screenshots showcasing the application in action:
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="bb1.jpeg" alt="" width="150"/>
-    <img src="bb2.jpeg" alt="" width="150"/>
-    <img src="bb3.jpeg" alt="" width="150"/>
+    <img src="dd1.jpeg" alt="" width="150"/>
+    <img src="dd2.jpeg" alt="" width="150"/>
+    <img src="dd3.jpeg" alt="" width="150"/>
 </div>
 
 <div style="display: flex; justify-content: space-between; margin-top: 10px;">
-    <img src="bb4.jpeg" alt=" " width="150"/>
-    <img src="bb5.jpeg" alt=" " width="150"/>
+    <img src="dd4.jpeg" alt=" " width="150"/>
+    <img src="dd5.jpeg" alt=" " width="150"/>
 </div>
